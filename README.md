@@ -7,7 +7,7 @@
 
 <h3>Here are some facts about me:</h3>
 
-- 👩‍🎓 B.Engg degree in Mechanical and Automation Engg.
+- 👩‍🎓 B.Tech. degree in Mechanical and Automation Engg.
 - 🧠 Developer born in the Pandemic (2020)
 - 👩‍💻 Web dev enthusiast
 - 🌱 Learning to build with **React**
