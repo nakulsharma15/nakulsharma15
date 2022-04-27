@@ -8,8 +8,8 @@
 <h3>Here are some facts about me:</h3>
 
 - 👩‍🎓 B.Tech. degree in Mechanical and Automation Engg.
-- 🧠 Developer born in the Pandemic (2020)
-- 👩‍💻 Web dev enthusiast
+- 🧠 Developer born in the Pandemic (2020).
+- 👩‍💻 Web dev enthusiast.
 - 🌱 Learning to build with **React**
 
 <h3>Find out about my professional life here:</h3>
